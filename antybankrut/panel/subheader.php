@@ -125,6 +125,6 @@ $czy_end_o=" and art_end>='".time()."'";
 
 
 
-include("left.php");
+
 include("right.php");
 ?>

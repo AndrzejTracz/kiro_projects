@@ -4,6 +4,6 @@
 //2 - Menu tylko prawe
 //3 - Menu lewe i prawe
 
-$t_conf_menu="1";
+$t_conf_menu="0";
 
 ?>
